@@ -1,4 +1,22 @@
+# Dependencies
 node_modules
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build
 dist
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
 
 
